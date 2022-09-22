@@ -4,6 +4,7 @@
         
     </head>
     <body>
+    <!-- PHP -->
     <h2>PHP</h2>
         <form method="POST" action="addition.php">
             <input type="text" name="num1" pattern="^[0-9\.]*$" placeholder="Gib eine Zahl ein">
@@ -26,6 +27,7 @@
             <button type="button" name="" onclick="addieren()">Berechnen</button>
         </form>-->
 
+        <!-- Javascript -->
         <script type="application/javascript">
             document.write("<h2>Javascript</h2><br>");
             document.write("Ergebnis = ");
